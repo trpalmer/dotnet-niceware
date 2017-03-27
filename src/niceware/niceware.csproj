@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+      <TargetFrameworks>netstandard1.4;net45</TargetFrameworks>
+      <DebugType>portable</DebugType>
+      <AssemblyName>Niceware</AssemblyName>
+      <OutputType>Library</OutputType>
+      
+      <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+      <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+      <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+      <GenerateAssemblyCopyrightAttribute>false</GenerateAssemblyCopyrightAttribute>
+      <GenerateAssemblyVersionAttribute>false</GenerateAssemblyVersionAttribute>
+      <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
+      <GenerateAssemblyInformationalVersionAttribute>false</GenerateAssemblyInformationalVersionAttribute>
+
+      <PackageVersion>0.1.0.0</PackageVersion>
+      <Title>Niceware for .NET</Title>
+      <Authors>Todd Palmer</Authors>
+      <Description>A library for generating random-yet-memorable passwords</Description>
+      <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+      <PackageTags>niceware passphrase</PackageTags>
+      <PackageProjectUrl>https://github.com/trpalmer/dotnet-niceware</PackageProjectUrl>
+      <RepositoryUrl>https://github.com/trpalmer/dotnet-niceware</RepositoryUrl>
+  </PropertyGroup>
+
+</Project>
