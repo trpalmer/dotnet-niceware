@@ -14,7 +14,7 @@
       <GenerateAssemblyFileVersionAttribute>false</GenerateAssemblyFileVersionAttribute>
       <GenerateAssemblyInformationalVersionAttribute>false</GenerateAssemblyInformationalVersionAttribute>
 
-      <PackageVersion>0.1.0.0</PackageVersion>
+      <PackageVersion>0.1.0.1</PackageVersion>
       <Title>Niceware for .NET</Title>
       <Authors>Todd Palmer</Authors>
       <Description>A library for generating random-yet-memorable passwords</Description>
